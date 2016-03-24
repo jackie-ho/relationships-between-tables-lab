@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/ssnedittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="ssn"/>
+    <EditText
+        android:id="@+id/firstnameedittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="first name"/>
+    <EditText
+        android:id="@+id/lastnameedittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="last name"/>
+    <EditText
+        android:id="@+id/yearofbirthedittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="year of birth"/>
+    <EditText
+        android:id="@+id/cityedittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="city"/>
+
+</LinearLayout>
