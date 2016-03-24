@@ -10,7 +10,7 @@ creator:
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Relationships between tables
 ## Introduction
 
-> ***Note:*** _This should be done independently._
+> ***Note:*** _This should be done independently or in pairs._
 
 In this lab, you will create a app with a database with two tables - Employee and Job.  
 
